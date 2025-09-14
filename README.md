@@ -1,4 +1,4 @@
-# JOGO DA MEMÓRIA
+# Jogo da Memória
 Neste repositório, você encontrará um divertido jogo da memória divertido emojis. Este projeto não apenas oferece entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de jogos usando HTML, CSS e JavaScript.
 
 *O projeto foi desenvolvido como parte do desafio da **DIO (Digital Innovation One)**.*
